@@ -54,7 +54,7 @@
 		"dev": "set NODE_ENV=development&& node index.js",
 		"prod": "set NODE_ENV=production&& node index.js"
 	},
-	"author": "NTKhang",
+	"author": "ArYAN",
 	"license": "MIT",
 	"repository": {
 		"type": "git",
