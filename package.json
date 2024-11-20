@@ -58,13 +58,13 @@
 	"license": "MIT",
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/ARYAN-BOT-404.git"
+		"url": "git+https://github.com/ARYAN-BOT-404/A4YA9.git"
 	},
 	"keywords": [],
 	"bugs": {
-		"url": "https://github.com/ARYAN-BOT-404/issues"
+		"url": "https://github.com/ARYAN-BOT-404/A4YA9/issues"
 	},
-	"homepage": "https://github.com/ARYAN-BOT-404#readme",
+	"homepage": "https://github.com/ARYAN-BOT-404/A4YA9#readme",
 	"devDependencies": {
 		"eslint": "^8.2.0",
 		"eslint-config-airbnb": "^19.0.4",
