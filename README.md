@@ -10,8 +10,8 @@ Welcome to Goat-Bot-V3! This is your ultimate bot for automating tasks and enhan
 
 ## 📫 Connect with Me
 For any details about Goat-Bot-V3, feel free to reach out through the following platforms:
-- **Facebook**: [Your Facebook Profile](https://www.facebook.com/lordjaydenSmith.1)
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/jaydenSmith)
+- **Facebook**: [MY Facebook Profile](https://www.facebook.com/lordjaydenSmith.1)
+- **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/in/jaydenSmith)
 - **GitHub**: [Your GitHub Profile](https://github.com/Lord9s)
 
 ## 📖 Documentation
